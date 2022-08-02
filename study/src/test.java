@@ -34,9 +34,7 @@ public class test {
             System.out.print(i + " ");
 
         System.out.println();
-
         quickSort(arr, 0, arr.length - 1);
-
         for (int i : arr)
             System.out.print(i + " ");
 
